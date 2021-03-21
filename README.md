@@ -3,11 +3,13 @@
 Why?
 
 # [Project 1: Piaui Economic Analysis (R)](https://github.com/FerreiraEnzoA/Porfolio)
-Analysis of the correlations between Average Monthly Salary, Education Level, and Self-Declared Color of RAIS from microdata of Brazil's Work Ministery.
+Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
+
 Data:
 -- Welch's T-Test
 -- Gini index
 -- Means
+
 Plot:
 -- Normal Distributions
 -- Boxplots
