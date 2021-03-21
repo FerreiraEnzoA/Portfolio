@@ -16,10 +16,10 @@ Plot: <br />
   -- 100% Stacked Bar Chart <br />
   -- Lorenz Curve <br />
 
-![](DataFrameTable.png)
+![](/images/DataFrameTable.png)
 
-![](2_Dispersao_SMM-Edu_2012.png)
+![](/images/2_Dispersao_SMM-Edu_2012.png)
 
-![](3_Boxplot_SMM-Cor_2012.png)
+![](/images/3_Boxplot_SMM-Cor_2012.png)
 
 
