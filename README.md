@@ -1,7 +1,7 @@
 # FerreiraEnzoA
 Innovation and Social objectives are keys! <br /> <br /> <br />
 
-# [Project 1: Piauí Economic Analysis (R)](https://github.com/FerreiraEnzoA/Porfolio)
+# [Project 1: Piauí Economic Analysis (R)](/Proj1/README.md)
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
 
 Data: <br />
