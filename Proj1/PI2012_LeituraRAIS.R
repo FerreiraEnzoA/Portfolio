@@ -1,3 +1,12 @@
+
+
+
+# ============= CODE WRITTEN BY ENZO FERREIRA & BRUNO NEGREIROS =============
+
+
+
+# ======== UP TO LORENZ CURVE THIS CODE WAS WRITTEN BY ENZO FERREIRA ==========
+
 library("data.table")
 library(dplyr)
 library(ggplot2)
@@ -131,7 +140,7 @@ t.test(`Vl Remun Média Nom`~`Raça Cor`, data=dft)
 #t.test(`Vl Remun Média Nom`~`Raça Cor`, data=dft, var.equal=TRUE)
   
 #====================== LORENZ CURVE =======================================
-#--------------- WRITTEN BY BRUNO NEGREIROS --------------------------------
+#-------- ALL BELLOW WAS WRITTEN BY BRUNO NEGREIROS ------------------------
 
 renda = df0$ `Vl Remun Média Nom`
 quantile(renda, probs = seq(0,1,0.1) )
