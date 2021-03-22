@@ -12,16 +12,16 @@ MAIN PAGE || [ARCHIVE](https://github.com/FerreiraEnzoA/Portfolio) || [ABOUT](ht
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
 
 **Data Analysis** <br />
-  -- Welch's T-Test <br />
-  -- Gini index <br />
-  -- Basic Statistics <br />
+  * Welch's T-Test <br />
+  * Gini index <br />
+  * Basic Statistics <br />
 
 **Plotting** <br />
-  -- Normal Distributions <br />
-  -- Boxplots (hidden outliers) <br />
-  -- Dispersion with Jitter Points <br />
-  -- 100% Stacked Bar Chart <br />
-  -- Lorenz Curve <br />
+  * Normal Distributions <br />
+  * Boxplots (hidden outliers) <br />
+  * Dispersion with Jitter Points <br />
+  * 100% Stacked Bar Chart <br />
+  * Lorenz Curve <br />
 
 ![](/images/DataFrameTable.png)
 
