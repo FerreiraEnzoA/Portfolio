@@ -4,7 +4,7 @@
 :briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
 
 <p align="center">
-:point_right: MAIN PAGE || <a href="/Archive/README.md">ARCHIVE</a> || <a href="/Archive/README.md">ABOUT</a>[ABOUT] :point_left:
+:point_right: MAIN PAGE || <a href="/Portfolio/Archive">ARCHIVE</a> || <a href="/Portfolio/About">ABOUT</a> :point_left:
 <br /> <br /> <br />
  </p>
 
