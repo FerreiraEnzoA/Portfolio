@@ -7,7 +7,7 @@
 <br /> <br /> <br />
 
 
-# :link: [Project 1: Piauí Economic Analysis](/Proj1/README.md) <img src="images/R.png" alt="R" width="30"/>
+#  <img src="images/R.png" alt="R" width="30"/> [Project 1: Piauí Economic Analysis](/Proj1/README.md)
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
 
 **Data Analysis** <br />
