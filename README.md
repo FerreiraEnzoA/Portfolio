@@ -1,12 +1,13 @@
 # FerreiraEnzoA
 :rocket: Innovation and Social objectives are keys! <br />
-:email: Email: FerreiraEnzoA@gmail.com <br />
+:email: Email: <a href="mailto:FerreiraEnzoA@gmail.com">FerreiraEnzoA@gmail.com</a> <br />
 :briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
+
 
 <p align="center">
 :point_right: MAIN PAGE || <a href="/Portfolio/Archive">ARCHIVE</a> || <a href="/Portfolio/About">ABOUT</a> :point_left:
+</p>
 <br /> <br /> <br />
- </p>
 
 
 # Main Page
