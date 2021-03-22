@@ -14,14 +14,32 @@ Enzo de Andrade Ferreira <br />
 Campinas, Brazil <br />
 
 <h2> Objetive </h2>
-Eager to bring value to modern companies through hard labor and commitment to quality by uniting Technology and Economics. Offering demonstrated success in diverse volunteer and scholarship work. <br />
+Eager to bring value to modern companies through hard labor and commitment to quality by uniting Technology and Economics. Offering demonstrated success in diverse volunteer and scholarship work <br />
 
 <h2> Education </h2>
 BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 
+<h2> Skills </h2>
+<h3> Soft Skills </h3>
+* Critical Thinking <br />
+* Proactivity <br />
+* Leadership <br />
+* Teamwork <br />
+<h3> Hard Skills </h3>
+<h4> Languages </h4>
+* Portuguese <br />
+* English <br />
+* Spanish <br />
+<h4> Technology </h4>
+* Excel <br />
+* Python <br />
+* R <br />
+* SQL <br />
+
+
 <h2> Certifications </h2>
-* Yale University <br />
-    * 2018 | Yale Young Global Scholars Program - Asia in the 21st Century <br />
++ Yale University <br />
+    + 2018 | Yale Young Global Scholars Program - Asia in the 21st Century <br />
 * University of São Paulo (USP) <br />
 ** 2019 | FFLCH Winter Online Courses - Liberal Thought Fundamentals <br />
 * S.O.S Educação Profissional <br />
