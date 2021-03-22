@@ -8,16 +8,16 @@
 
 # About
 
-![](../images/Enzo.png)
+ <br /> ![](../images/Enzo.png)  <br />
 
 Enzo de Andrade Ferreira <br />
-Campinas, Brazil <br />
+Campinas, Brazil <br /> <br />
 
 <h2> Objetive </h2>
-Eager to bring value to modern companies through hard labor and commitment to quality by uniting Technology and Economics. Offering demonstrated success in diverse volunteer and scholarship work <br />
+Eager to bring value to modern companies through hard labor and commitment to quality by uniting Technology and Economics. Offering demonstrated success in diverse volunteer and scholarship work <br /> <br />
 
 <h2> Education </h2>
-BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
+BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br />
 
 <h2> Skills </h2>
 <h3> Soft Skills </h3>
@@ -34,7 +34,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 * Excel <br />
 * Python <br />
 * R <br />
-* SQL <br />
+* SQL <br /> <br />
 
 
 <h2> Certifications </h2>
@@ -43,7 +43,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 **University of São Paulo (USP)** <br />
     -- 2019 - FFLCH Winter Online Courses - Liberal Thought Fundamentals <br /> <br />
 **S.O.S Educação Profissional** <br />
-    -- 2013 - Web Design & Graphic Design <br />
+    -- 2013 - Web Design & Graphic Design <br /> <br />
 
 <h2> Accomplishments </h2>
 **Académie de Strasbourg** <br />
@@ -53,7 +53,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 **National Meetings of Political Economy (Brazil)** <br />
     -- 2018 - First high school student to present a scientific poster <br /> <br />
 **National Meetings of Geographers (Brazil)** <br />
-    -- 2018 - First high school student to present a scientific paper <br /> <br />
+    -- 2018 - First high school student to present a scientific paper <br /> <br /> <br />
 
 <h2> Volunteering & Scholarships </h2>
 **Yale University - Ambassador (2018 - 2019)** <br />
@@ -66,4 +66,4 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 **Catholic University of Santos (UNISANTOS) - Young Researcher (2017 - 2018)** <br />
     -- Analyzed research data to draw conclusions on outcomes of Chlorella pyrenoidosa in Pharmacology <br /> <br />
 **AEON Vestibulares - Pre-University Entrance Exam Course Monitor (2019 - 2020)** <br />
-    -- Responsible for teaching to other students rotating subjects determined on a weekly basis <br /> <br />
+    -- Responsible for teaching to other students rotating subjects determined on a weekly basis <br /> <br /> <br />
