@@ -11,13 +11,13 @@
  <br /> ![](../images/Enzo.png)  <br />
 
 Enzo de Andrade Ferreira <br />
-Campinas, Brazil <br /> <br />
+Campinas, Brazil <br /> <br /> <br />
 
 <h2> Objetive </h2>
 Eager to bring value to modern companies through hard labor and commitment to quality by uniting Technology and Economics. Offering demonstrated success in diverse volunteer and scholarship work <br /> <br />
 
 <h2> Education </h2>
-BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br />
+BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br />
 
 <h2> Skills </h2>
 <h3> Soft Skills </h3>
@@ -34,7 +34,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br />
 * Excel <br />
 * Python <br />
 * R <br />
-* SQL <br /> <br />
+* SQL <br /> <br /> <br />
 
 
 <h2> Certifications </h2>
@@ -43,7 +43,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br />
 **University of São Paulo (USP)** <br />
     -- 2019 - FFLCH Winter Online Courses - Liberal Thought Fundamentals <br /> <br />
 **S.O.S Educação Profissional** <br />
-    -- 2013 - Web Design & Graphic Design <br /> <br />
+    -- 2013 - Web Design & Graphic Design <br /> <br /> <br />
 
 <h2> Accomplishments </h2>
 **Académie de Strasbourg** <br />
