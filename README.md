@@ -1,9 +1,13 @@
 # FerreiraEnzoA
-Innovation and Social objectives are keys! <br />
-Email: FerreiraEnzoA@gmail.com <br />
-LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
+:rocket: Innovation and Social objectives are keys! <br />
+:email: Email: FerreiraEnzoA@gmail.com <br />
+:briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
 
-# [Project 1: Piauí Economic Analysis (R)](/Proj1/README.md)
+[MAIN PAGE](https://www.google.com/) | [ARCHIVE](https://github.com/FerreiraEnzoA/Portfolio/) | [CONTACT](https://www.google.com/) | [ABOUT](https://www.google.com/) <br /> <br /> <br />
+
+
+
+# :link: [Project 1: Piauí Economic Analysis (R)](/Proj1/README.md)
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
 
 **Data Analysis** <br />
