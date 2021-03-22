@@ -8,4 +8,4 @@
 
 # :link: [Click here to access my GitHub Portfolio Archive](https://github.com/FerreiraEnzoA/Portfolio)
 
-[<img src="../images/GitHub.png" alt="R" width="30"/>](https://github.com/FerreiraEnzoA/Portfolio)
+[<img src="../images/GitHub.png" alt="R" width="250"/>](https://github.com/FerreiraEnzoA/Portfolio)
