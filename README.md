@@ -3,8 +3,10 @@
 :email: Email: FerreiraEnzoA@gmail.com <br />
 :briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
 
-:point_right: MAIN PAGE || [ARCHIVE](/Archive/README.md) || [ABOUT](/About/README.md) :point_left:
+<p align="center">
+:point_right: MAIN PAGE || <a href="/Archive/README.md">ARCHIVE</a> || <a href="/Archive/README.md">ABOUT</a>[ABOUT] :point_left:
 <br /> <br /> <br />
+ </p>
 
 
 # Main Page
