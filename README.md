@@ -11,6 +11,14 @@
 
 
 # Main Page
+# <img src="images/Python.png" alt="R" width="50"/> [Project 2: Automation of Reconfirmation](/Proj2/README.md) <br />
+Automation project (with pandas and openpyxl libraries) of reconfirmation for Customer Service where `conf_cs.xlsx` and `conf_customer.xlsx` was compared, then `reconfirmation.xlsx` was generated and some warnings was output.
+
+![](images/proj2.png)
+
+![](images/proj2_diagram.png)
+
+ <br />
 
 # <img src="images/R.png" alt="R" width="50"/> [Project 1: Piauí Economic Analysis](/Proj1/README.md) <br />
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).  <br />
