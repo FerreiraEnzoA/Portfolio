@@ -19,7 +19,7 @@ The Customer Service sends a confirmation `conf_cs.xlsx` to the customer, then t
 
 Primarily, I used the pandas library to manipulate structured data and, secondarily, openpyxl library to read/write Excel 2010 .xlsx files.
 
-You can both get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2)
+You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2)
 
 ![](../images/proj2_diagram.png)
 
