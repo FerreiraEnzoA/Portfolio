@@ -11,6 +11,15 @@
 
 
 # Main Page
+# <img src="images/Python.png" alt="R" width="50"/> [Project 3: Automation of Invoice](/Proj3/README.md) <br />
+Automation project (with pandas and openpyxl libraries) of invoice for Customer Service where `conf.xlsx`, `gen_ins.xlsx`, `inventory1.xlsx`, and `inventory2.xlsx` was compared, then `invoice.xlsx` was generated and some warnings was output.
+
+![](images/proj3.png)
+
+![](images/proj3_diagram.png)
+
+ <br />
+
 # <img src="images/Python.png" alt="R" width="50"/> [Project 2: Automation of Reconfirmation](/Proj2/README.md) <br />
 Automation project (with pandas and openpyxl libraries) of reconfirmation for Customer Service where `conf_cs.xlsx` and `conf_customer.xlsx` was compared, then `reconfirmation.xlsx` was generated and some warnings was output.
 
