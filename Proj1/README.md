@@ -9,6 +9,7 @@
 </p>
 <br /> <br /> <br />
 
+:page_with_curl: This repository is licensed under the terms of the [GPLv3 license](https://github.com/FerreiraEnzoA/Portfolio/blob/main/LICENSE). <br />
 
 # <img src="../images/R.png" alt="R" width="50"/> Project 1: Piauí Economic Analysis <br />
 This project was inspired by an academic work required by Economic Analysis Methods discipline (CE242) of Economics major at University of Campinas (Brazil). Its purpose isn’t to analyze scientifically, but it aim is only to make this code open-source to further analysis.
