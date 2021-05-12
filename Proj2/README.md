@@ -11,7 +11,7 @@
 
 
 # <img src="../images/Python.png" alt="R" width="50"/> Project 2: Automation of Reconfirmation <br />
-This project was inspired by difficulties in reconfirming a company's sales to a specific customer, as the task took hours to complete. In this context, the objective is to reduce both the reconfirmation time and the possible human errors in the analysis of extensive spreadsheets as much as possible.
+This project was inspired by difficulties in reconfirming a company's sales to a specific customer, as the task took hours to complete. In this context, the aim is to reduce both the reconfirmation time and the possible human errors in the analysis of extensive spreadsheets as much as possible.
 
 ![](../images/proj2.png)
 
