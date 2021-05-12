@@ -23,4 +23,4 @@ You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/ma
 
 ![](../images/proj2_diagram.png)
 
-An issue to be solved is when there is more than the same item in both worksheets, as the output would be a false error if the quantity or arrival date differed, despite the fact that the worksheet is generated perfectly, so it is a wrong warning.
+An issue to be solved is when there is more than the same `CPC` in both worksheets, as the output would be a false error if `QUANT` (quantity) or `ARRIVE`(arrival date) differed, despite the fact that the worksheet is generated perfectly, so it is a wrong warning.
