@@ -20,8 +20,6 @@ The Customer Service sends a confirmation `conf_cs.xlsx` to the customer, then t
 
 Primarily, I used the pandas library to manipulate structured data and, secondarily, the openpyxl library to read/write Excel 2010 .xlsx files.
 
-You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2).
-
 ![](../images/proj2_diagram.png)
 
-An issue to be solved is when there is more than the same `CPC` in both worksheets, as the output would be a false error if `QUANT` (quantity) or `ARRIVE`(arrival date) differed, despite the fact that the worksheet is generated perfectly, so it is a wrong warning.
+You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2) and solve any [issues](https://github.com/FerreiraEnzoA/Portfolio/issues).
