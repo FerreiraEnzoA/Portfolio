@@ -60,13 +60,24 @@ for i in tab2['Item #']:
 # CPCs Ship to
 print('\n\n\n============= CPCs DESTINATION =============')
 for z in pallet:
+    z = int(z)
+    y = tab2.loc[tab2['Lot #/Pallet #'] == z]
+    j = y['Qty'].item()
     if z in a_city:
-        print(z, 'A')
-        shipto.append('A')
+        m = tab3.loc[tab3['Package id'] == z]
+        n = m['Qty'].item()
+        if n != j:
+            shipto.append('!= Qty')
+        else:
+            print(z, 'A')
+            shipto.append('A')
     elif z in bc_cities:
         x = tab4.loc[tab4['Package id'] == z]
+        i = x['Qty'].item()
         k = str(x['CustProdName'].item())
-        if k == '22' or 'B' in k:
+        if i != j:
+            shipto.append('!= Qty')
+        elif k == '22' or 'B' in k:
             print(z, 'B')
             shipto.append('B')
         else:
