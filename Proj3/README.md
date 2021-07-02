@@ -28,4 +28,4 @@ Primarily, I used the pandas library to manipulate structured data and, secondar
 
 ![](../images/proj3_diagram.png)
 
-You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2) and solve any [issues](https://github.com/FerreiraEnzoA/Portfolio/issues).
+You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj3) and solve any [issues](https://github.com/FerreiraEnzoA/Portfolio/issues).
