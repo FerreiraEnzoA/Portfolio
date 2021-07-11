@@ -39,9 +39,11 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br
 * Spanish <br />
 <h4> Technology </h4>
 * Python <br />
+* Linux <br />
+* SQL <br />
 * Excel <br />
-* R <br />
-* SQL <br /> <br /> <br />
+* R <br /> <br /> <br />
+
 
 
 <h2> Certificates </h2>
