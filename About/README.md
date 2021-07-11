@@ -23,10 +23,11 @@ Eager to bring value to companies and society through hard labor and commitment 
 BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br />
 
 <h2> Experience </h2>
+
+2021-04 - 2021-07 <br />
 **Customer Service Intern | Ahlstrom-Munksjö** <br />
-(2021-04 - 2021-07) <br />
     -- Assisted in customer service, monitored the sales flow, and wrote reports <br />
-    -- Created and developed Python automation projects (with pandas library) to Customer Service team <br /> <br /> <br />
+    -- Created Python automation projects (with pandas library) to Customer Service team <br /> <br /> <br />
 
 <h2> Skills </h2>
 <h3> Soft Skills </h3>
