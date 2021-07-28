@@ -14,13 +14,11 @@
  <br /> ![](../images/Enzo.png)  <br />
 
 Enzo de Andrade Ferreira <br />
-Campinas, Brazil <br /> <br /> <br />
+São Paulo, Brazil <br /> <br /> <br />
 
-<h2> Objetive </h2>
-Eager to bring value to companies and society through hard labor and commitment to quality. <br /> <br />
 
 <h2> Education </h2>
-BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br />
+**BSc Candidate in Economics @ University of Campinas** (UNICAMP) <br /> <br /> <br />
 
 <h2> Experience </h2>
 
