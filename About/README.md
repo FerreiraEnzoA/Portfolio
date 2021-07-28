@@ -14,7 +14,7 @@
 <div align="center">
     <br /> <img src="../images/Enzo.png" />  <br />
     Enzo de Andrade Ferreira <br />
-    -|  São Paulo, Brazil  |- <br /> <br /> <br />
+    ___ São Paulo, Brazil ___ <br /> <br /> <br />
 </div>
 
 <h2> Education </h2>
