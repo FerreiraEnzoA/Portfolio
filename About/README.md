@@ -11,12 +11,11 @@
 
 # About
 
-<center>
-<br /> ![](../images/Enzo.png)  <br />
-
-Enzo de Andrade Ferreira <br />
-São Paulo, Brazil <br /> <br /> <br />
-</center>
+<div align="center">
+    <br /> <img src="../images/Enzo.png" />  <br />
+    Enzo de Andrade Ferreira <br />
+    -|  São Paulo, Brazil  |- <br /> <br /> <br />
+</div>
 
 <h2> Education </h2>
 **BSc Candidate in Economics @ University of Campinas** (UNICAMP) <br /> <br /> <br />
